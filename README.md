@@ -5,8 +5,6 @@ Este projeto, desenvolvido em Python, tem como objetivo automatizar tarefas repe
 
 Funcionalidades
 
--Menu interativo: Interface de linha de comando para selecionar a tarefa desejada.
-
--Abertura de aplicativos e sites: Automação para iniciar navegadores e abrir URLs específicas.
-
--Personalização: Possibilidade de incluir novas tarefas ou modificar as existentes conforme a necessidade.
+-  Menu interativo: Interface de linha de comando para selecionar a tarefa desejada.
+-  Abertura de aplicativos e sites: Automação para iniciar navegadores e abrir URLs específicas.
+-  Personalização: Possibilidade de incluir novas tarefas ou modificar as existentes conforme a necessidade.
